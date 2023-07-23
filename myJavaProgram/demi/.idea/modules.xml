@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demi.iml" filepath="$PROJECT_DIR$/.idea/modules/demi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demi-build.iml" filepath="$PROJECT_DIR$/.idea/modules/demi-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/modules/myjavaprogram.iml" filepath="$PROJECT_DIR$/../.idea/modules/myjavaprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/modules/myjavaprogram-build.iml" filepath="$PROJECT_DIR$/../.idea/modules/myjavaprogram-build.iml" />
+    </modules>
+  </component>
+</project>
